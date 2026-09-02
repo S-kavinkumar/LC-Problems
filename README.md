@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/S-kavinkumar/LC-Problems/tree/master/1122-relative-sort-array) |
 | [1528-shuffle-string](https://github.com/S-kavinkumar/LC-Problems/tree/master/1528-shuffle-string) |
 | [2942-find-words-containing-character](https://github.com/S-kavinkumar/LC-Problems/tree/master/2942-find-words-containing-character) |
+| [3875-construct-uniform-parity-array-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/S-kavinkumar/LC-Problems/tree/master/1122-relative-sort-array) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
