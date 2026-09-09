@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/S-kavinkumar/LC-Problems/tree/master/3904-smallest-stable-index-ii) |
+## Database
+|  |
+| ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
