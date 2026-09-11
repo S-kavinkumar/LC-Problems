@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/S-kavinkumar/LC-Problems/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/S-kavinkumar/LC-Problems/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/S-kavinkumar/LC-Problems/tree/master/2942-find-words-containing-character) |
+| [3483-unique-3-digit-even-numbers](https://github.com/S-kavinkumar/LC-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/S-kavinkumar/LC-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/3903-smallest-stable-index-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/S-kavinkumar/LC-Problems/tree/master/1122-relative-sort-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/S-kavinkumar/LC-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/S-kavinkumar/LC-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/S-kavinkumar/LC-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
