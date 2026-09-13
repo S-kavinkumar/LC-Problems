@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/S-kavinkumar/LC-Problems/tree/master/0835-image-overlap) |
 | [1122-relative-sort-array](https://github.com/S-kavinkumar/LC-Problems/tree/master/1122-relative-sort-array) |
 | [1528-shuffle-string](https://github.com/S-kavinkumar/LC-Problems/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/S-kavinkumar/LC-Problems/tree/master/1816-truncate-sentence) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/S-kavinkumar/LC-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/S-kavinkumar/LC-Problems/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
