@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [3436-find-valid-emails](https://github.com/S-kavinkumar/LC-Problems/tree/master/3436-find-valid-emails) |
 ## Recursion
 |  |
 | ------- |
