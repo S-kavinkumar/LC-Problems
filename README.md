@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/S-kavinkumar/LC-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/S-kavinkumar/LC-Problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/S-kavinkumar/LC-Problems/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/S-kavinkumar/LC-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/S-kavinkumar/LC-Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/S-kavinkumar/LC-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/S-kavinkumar/LC-Problems/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
