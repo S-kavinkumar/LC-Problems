@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/S-kavinkumar/LC-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/S-kavinkumar/LC-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/S-kavinkumar/LC-Problems/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/S-kavinkumar/LC-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/S-kavinkumar/LC-Problems/tree/master/3436-find-valid-emails) |
