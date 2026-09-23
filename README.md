@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/S-kavinkumar/LC-Problems/tree/master/0835-image-overlap) |
 | [1122-relative-sort-array](https://github.com/S-kavinkumar/LC-Problems/tree/master/1122-relative-sort-array) |
 | [1528-shuffle-string](https://github.com/S-kavinkumar/LC-Problems/tree/master/1528-shuffle-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/S-kavinkumar/LC-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1816-truncate-sentence](https://github.com/S-kavinkumar/LC-Problems/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/S-kavinkumar/LC-Problems/tree/master/2942-find-words-containing-character) |
 | [3483-unique-3-digit-even-numbers](https://github.com/S-kavinkumar/LC-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/S-kavinkumar/LC-Problems/tree/master/1122-relative-sort-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/S-kavinkumar/LC-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/S-kavinkumar/LC-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/S-kavinkumar/LC-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/S-kavinkumar/LC-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Database
@@ -92,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/S-kavinkumar/LC-Problems/tree/master/3498-reverse-degree-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/S-kavinkumar/LC-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/S-kavinkumar/LC-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
