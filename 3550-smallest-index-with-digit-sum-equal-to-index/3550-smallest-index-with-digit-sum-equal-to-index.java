@@ -7,7 +7,7 @@ class Solution {
             while(val > 0){
                 int mod = val % 10;
                 sum += mod;
-                val /= 10;
+                val = val / 10;
             }
             if(sum == i){
                 return i;
