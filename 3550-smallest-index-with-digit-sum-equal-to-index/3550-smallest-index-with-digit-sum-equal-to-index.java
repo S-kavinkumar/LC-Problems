@@ -3,10 +3,11 @@ class Solution {
         int n = nums.length;
         for(int i = 0 ; i < n ; i++){
             int sum = 0;
-            while(nums[i] > 0){
-                int mod = nums[i] % 10;
+            int val = nums[i];
+            while(val > 0){
+                int mod = val % 10;
                 sum += mod;
-                nums[i] /= 10;
+                val /= 10;
             }
             if(sum == i){
                 return i;
