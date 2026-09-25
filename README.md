@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/S-kavinkumar/LC-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1251-average-selling-price](https://github.com/S-kavinkumar/LC-Problems/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/S-kavinkumar/LC-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/S-kavinkumar/LC-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/S-kavinkumar/LC-Problems/tree/master/1407-top-travellers) |
